@@ -8,14 +8,14 @@ on:
 
       os:
 
-        description: 'Nhập token Ngrok'
+        description : '2Hd65Ym4vK69ypHWPRKTyzd6jpF_4dhQNpr5PkDWzTACMaP7U '
 
         required: true
       us:
-        description: 'Nhập tên người dùng'
+        description : 'Nam'
 
-        required: true
-      os2:
+        request  : true
+      hệ điều hành2 :
 
         description: 'Nhập mật khẩu'
 
